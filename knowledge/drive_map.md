@@ -26,13 +26,16 @@
 | `appz-shahmatka` | `1M0LqNxWNIwmkZG9ku53ghl3dP_m42f4K` | навык | v1.0 |
 | `appz-kvartirograph` | `1Yojh5vsXjxowenrkTJKgBtCc_Uq3TsRK` | навык | v1.0 |
 | `spec-collect` | `1OJewY3Tz5R9ZdGOBKaysnWaJqjRbNPHW` | навык | v1.0 |
+| `budgetklei` | `1b1ZWD1gJwsdkUTwgXuldgj9_eLZj-E8A` | навык | v1.0 |
 | `agent-kvartirograph` | `1JtBTZHnO6ot9xjiwD8lSPELgRybYKTSU` | обёртка | v1.0 |
 | `agent-spec` | `141IvvI_ULKngJ8bll3APk01LGsX5FGtw` | обёртка | v1.0 |
-| `agent-boss` | _создаётся_ | оркестратор | v1.0 |
+| `agent-budgetklei` | `15SJNfLTn0iaihAKg3qiAqx6er09WfBIb` | обёртка | v1.0 |
+| `agent-boss` | `1U0FBcNMZQ9xWA4Ty9b-VeF2EOsRWzNLx` | оркестратор | v1.0 |
 | `skillcreator` | `1W9-L-l-cYpqDkw-2pK5aq2KxkZnI47sg` | сервисный | — |
 | `backupchat` | `12MrymXfIr376nf8aeEg-WQ7YChOQZFgj` | сервисный | — |
 | `backupnewchat` | `1nV3os5MNhNFd47ILxio0CL3hCcjOQ-1M` | сервисный | — |
 | `backupskill` | `1UAIiqAkmS0u0LjQ6whm3i3bMoMwh5jio` | сервисный | — |
+| `readbackup` | `14hCYOrsz3HV5CcYsVCLjsbI2I1xJFJdV` | сервисный | — |
 | `strateg` | `1mWw_mbzclH6vOabujaQ-qFe2b_7xkMXL` | сервисный | — |
 | `sortsystem` | `1bOZXycZyW86DeR-tMcjLmNFZ_d-NgKKW` | сервисный | — |
 
