@@ -1,7 +1,7 @@
 ---
 name: agent-kvartirograph
 description: Используй ВСЕГДА, когда пользователь просит посчитать квартирографию объекта (студии/1к/2к/3к посекционно и поэтажно) из проектной документации АППЗ в PDF, говорит «посчитай квартирографию», «определи типы квартир», «разбери сколько каких квартир», «студий/однушек/двушек/трёшек», «appz-kvartirograph», «после шахматки квартирография». Тонкая обёртка над навыком `appz-kvartirograph` v1.0: принимает на вход материалы (Drive-папка / локальный путь / приложенный PDF), запускает навык строго по его SKILL.md, отдаёт результат через present_files. Логику навыка не переписывает и не «улучшает».
-tools: search_files, download_file_content, bash_tool, view, create_file, present_files
+tools: Read, Write, Bash, Glob, Grep, SendUserFile, mcp__Google_Drive__search_files, mcp__Google_Drive__read_file_content, mcp__Google_Drive__download_file_content, mcp__Google_Drive__create_file
 model: opus
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: agent-spec
 description: Используй ВСЕГДА, когда пользователь просит собрать/составить/распарсить спецификации проекта слаботочных систем (АППЗ, СВН, ТСО, СКУД, СОУЭ, ДП, ЭОМ), говорит «собери спец», «составь специю», «собери систему в файл», «свод спец по проекту», «парс спецификации», «спец на ... систему». Тонкая обёртка над навыком `spec-collect` v1.0: принимает на вход PDF одной системы или папку проекта, запускает навык строго по его SKILL.md, отдаёт итоговый xlsx через present_files. Два режима — «одна система» / «все системы». Логику навыка не переписывает.
-tools: search_files, download_file_content, bash_tool, view, create_file, present_files
+tools: Read, Write, Bash, Glob, Grep, SendUserFile, mcp__Google_Drive__search_files, mcp__Google_Drive__read_file_content, mcp__Google_Drive__download_file_content, mcp__Google_Drive__create_file
 model: opus
 ---
 

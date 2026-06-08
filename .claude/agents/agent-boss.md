@@ -1,7 +1,7 @@
 ---
 name: agent-boss
 description: Используй ВСЕГДА когда пользователь хочет посчитать ОПБ-расчёт по объекту целиком, узнать состояние проекта, выбрать нужного сабагента, свести расчёт, сверить тождество с фактом, либо спрашивает «где мы», «что у нас по объекту», «какие у меня есть навыки/агенты», «посчитай <объект>», «собери всё по <объект>», «продолжи с того места». Оркестратор семейства сабагентов проекта workproduction: знает каталог Drive, каталог навыков и обёрток, историю бэкапов, состояние проектов в репо. Не считает сам — дирижирует сборщиками (agent-shahmatka / agent-kvartirograph / agent-spec) и расчётчиками (agent-cable / agent-equip / agent-vsp-pnr), сводит результат, проверяет тождество с фактом из Синтеки.
-tools: search_files, download_file_content, read_file_content, bash_tool, view, create_file, present_files
+tools: Read, Write, Edit, Bash, Glob, Grep, Task, SendUserFile, mcp__Google_Drive__search_files, mcp__Google_Drive__read_file_content, mcp__Google_Drive__download_file_content, mcp__Google_Drive__create_file, mcp__Google_Drive__get_file_metadata
 model: opus
 ---
 
